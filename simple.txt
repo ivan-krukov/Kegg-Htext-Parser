@@ -1,0 +1,4 @@
+Description 	Mappable 	D 	C 	B 	A 	
+X01 a,b,c,d; Text description	P01 Text description [ID:item1 item2] 	1.1.1.1  More text still 	1.1.1  Even more text 	1.1  More text 	<b>1. Text</b> 	
+X02 e,f,g,h; More descriptions	P02 Some more descriptive text [ID: item3 item4] 	1.1.1.1  More text still 	1.1.1  Even more text 	1.1  More text 	<b>1. Text</b> 	
+X03 x; This one has an item, too!	P03 This is what this is [part of that], ups unexpected squre brackets in description! [ID: item5] 	1.1.1.3 One more category 	1.1.1  Even more text 	1.1  More text 	<b>1. Text</b> 	
